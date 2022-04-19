@@ -10,7 +10,7 @@
 
 <!--- Stats --->
 
-<img align="left" alt="alanLangCard" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a1an-huang&theme=ayu-mirage"/>
+<img align="left" alt="alanLangCard" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a1an-huang&theme=ayu-mirage" left="2%"/>
 <img align="right" alt="alanStats" src="https://github-readme-stats.vercel.app/api?username=a1an-huang&show_icons=true&theme=ayu-mirage" width="49%"/>
 
 <!---
