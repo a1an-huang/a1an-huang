@@ -10,10 +10,10 @@
 
 <!--- Stats --->
 <a href="https://github.com/a1an-huang/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=a1an-huang&repo=github-readme-stats&theme=ayu-mirage" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=a1an-huang&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/a1an-huang/convoychat">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=a1an-huang&repo=convoychat&theme=ayu-mirage" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=a1an-huang&repo=convoychat" />
 </a>
 
 <!---
