@@ -5,6 +5,7 @@
 - 📫 You can reach me @ my Linkedin https://www.linkedin.com/in/huang-alan/
 
 <img align="center" alt="alanStats" src="https://github-readme-stats.vercel.app/api?username=a1an-huang&show_icons=true&theme=radical"/>
+<img align="center" alt="alanLangCard" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a1an-huang&layout=compact"/>
 
 
 <!---
