@@ -9,12 +9,9 @@
 <!--- Connects --->
 
 <!--- Stats --->
-<a href="https://github.com/a1an-huang/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=a1an-huang&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/a1an-huang/convoychat">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=a1an-huang&repo=convoychat" />
-</a>
+
+<img align="left" alt="alanLangCard" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a1an-huang&theme=ayu-mirage"/>
+<img align="right" alt="alanStats" src="https://github-readme-stats.vercel.app/api?username=a1an-huang&show_icons=true&theme=ayu-mirage" width="49%"/>
 
 <!---
 a1an-huang/a1an-huang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
