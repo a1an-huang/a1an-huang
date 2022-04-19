@@ -1,4 +1,5 @@
 <!--- Introduction --->
+<!--->
 
 - 👋 Hello, I’m Alan Huang
 - 👀 I’m aspiring to be a Software Engineer
@@ -6,6 +7,7 @@
 - 💞️ Looking foward to collobrate on Projects :D
 - 🥅 2022 Goals: Contribute to more Projects & Improving on [LeetCode](https://leetcode.com/_ahuan/)
 - 📙 You can connect with me @ [Linkedin](https://www.linkedin.com/in/huang-alan/)
+--->
 <!--- Connects --->
 
 <!--- Stats --->
